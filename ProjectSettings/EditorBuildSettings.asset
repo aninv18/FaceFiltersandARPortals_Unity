@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Task_Yinzcam/FacePaint.unity
+    guid: 4e0ef6cca7836a641b5b207f6b4c3149
+  - enabled: 1
+    path: Assets/Task_Yinzcam/Portal_video.unity
+    guid: 1d253a3ca6246934dbffb26db7f1f5aa
+  - enabled: 0
+    path: Assets/Task_Yinzcam/Portal_environment.unity
+    guid: f658b0f85e5f3ad44b959c8d35e55cd0
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45, type: 2}
